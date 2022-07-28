@@ -1,0 +1,8 @@
+﻿  Receiver.cpp
+D:\קבצים\אילה\קמאטק\c++\project\shared\Socket.h(53,18): warning C4101: 'buffer': unreferenced local variable
+D:\קבצים\אילה\קמאטק\c++\project\shared\PackageManager.h(52,10): warning C4101: 'c': unreferenced local variable
+D:\קבצים\אילה\קמאטק\c++\project\shared\PackageManager.h(125,15): warning C4018: '>': signed/unsigned mismatch
+D:\קבצים\אילה\קמאטק\c++\project\shared\PackageManager.h(138,22): warning C4018: '<': signed/unsigned mismatch
+D:\קבצים\אילה\קמאטק\c++\project\shared\Socket.h(46): warning C4715: 'Socket::recvfrom': not all control paths return a value
+D:\קבצים\אילה\קמאטק\c++\project\shared\Device.h(85): warning C4715: 'Device::retOpcode': not all control paths return a value
+  Receiver.vcxproj -> D:\קבצים\אילה\קמאטק\c++\project\Receiver\Debug\Receiver.exe
